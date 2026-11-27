@@ -1,0 +1,8 @@
+*.zip
+*.db
+*.sqlite
+__pycache__/
+.venv/
+stocks/
+etfs/
+symbols_valid_meta.csv
